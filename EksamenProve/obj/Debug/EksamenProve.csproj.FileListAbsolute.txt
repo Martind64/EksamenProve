@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Projekter\EksamenProve\EksamenProve\bin\Debug\EksamenProve.exe.config
+C:\Users\Martin\Documents\Projekter\EksamenProve\EksamenProve\obj\Debug\EksamenProve.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Projekter\EksamenProve\EksamenProve\bin\Debug\EksamenProve.exe
+C:\Users\Martin\Documents\Projekter\EksamenProve\EksamenProve\bin\Debug\EksamenProve.pdb
+C:\Users\Martin\Documents\Projekter\EksamenProve\EksamenProve\obj\Debug\EksamenProve.exe
+C:\Users\Martin\Documents\Projekter\EksamenProve\EksamenProve\obj\Debug\EksamenProve.pdb

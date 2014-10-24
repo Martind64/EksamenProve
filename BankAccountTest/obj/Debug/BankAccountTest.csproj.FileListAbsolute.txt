@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Projekter\EksamenProve\BankAccountTest\obj\Debug\BankAccountTest.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Projekter\EksamenProve\BankAccountTest\bin\Debug\BankAccountTest.dll
+C:\Users\Martin\Documents\Projekter\EksamenProve\BankAccountTest\bin\Debug\BankAccountTest.pdb
+C:\Users\Martin\Documents\Projekter\EksamenProve\BankAccountTest\bin\Debug\EksamenProve.exe
+C:\Users\Martin\Documents\Projekter\EksamenProve\BankAccountTest\bin\Debug\EksamenProve.pdb
+C:\Users\Martin\Documents\Projekter\EksamenProve\BankAccountTest\obj\Debug\BankAccountTest.dll
+C:\Users\Martin\Documents\Projekter\EksamenProve\BankAccountTest\obj\Debug\BankAccountTest.pdb
